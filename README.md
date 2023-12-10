@@ -1,16 +1,8 @@
-# orientation_sample
+# Vertical Screen
 
-A new Flutter project.
+![Screenshot_1702171442](https://github.com/mzunohkaru/Flutter-Sample-Device-Orientation/assets/99012157/00e5a218-9192-4daa-a3f5-1b9d79532ef5)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+# Horizontal Screen
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1702171445](https://github.com/mzunohkaru/Flutter-Sample-Device-Orientation/assets/99012157/b489f8da-bd77-4e32-88e2-e6094e79bdb3)
